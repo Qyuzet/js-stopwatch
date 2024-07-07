@@ -5,6 +5,8 @@
 The **JS Stopwatch** project is a simple and functional stopwatch application created using JavaScript, HTML, and CSS. It demonstrates how to build a basic time-tracking application with start, stop, and reset functionalities.
  [TRY NOW!](https://qyuzet.github.io/js-stopwatch/)
 
+ ![image](https://github.com/Qyuzet/js-stopwatch/assets/93258081/f3b8c34f-392a-4fbf-a811-0e0f09c49231)
+
  
 ## Features
 
